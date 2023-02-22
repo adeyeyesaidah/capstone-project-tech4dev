@@ -1,0 +1,47 @@
+Name,Gender,Home Area,Age,Delivery_Frequency,Type_of_goods_delivered,No_of times_bad_goods_received,Rating_delivery_rates,Willing_to_pay,Importance_of_fast_delivery,Opinion_Tracking_goods,Rate: Driver_details,Whether_smallbusinessowner_ornot,Business owner qs:rate_unknown_rider,Business owner qs:rate_incompetent_rider,Business owner qs:rate_accessibility_of_rider,Will_to_pay_to_access_riders
+Adenike,Female,Porthacourt ,32 - 38,Sometimes,"Clothes, Phones",<4 times,Affordable,Yes,Very important,Yes,10,No,,,,
+Chisom Akwue,Female,"Anambra, South East Nigeria.",18 - 24,Oftenly,"Food stuff, Clothes, ",5 - 10 times,Expensive,Yes,Very important,Yes,10,No,,,,
+Olajumoke ,Female,Lagos ,38+,Oftenly,"Clothes, Glasses and other fragile goods, ",<4 times,Expensive,Yes,Neutral,Yes,7,Yes,4,5,4,Maybe
+Enomfom Godwin,Female,"Uyo, Akwa Ibom ",18 - 24,Rarely,Clothes,<4 times,Affordable,Yes,Somewhat important,Yes,7,No,,,,
+Enomfon Akpanudo ,Female,Akwa ibom ,18 - 24,Sometimes,"Clothes, Glasses and other fragile goods",<4 times,Expensive,Yes,Somewhat important,Yes,10,No,,,,
+Enomfon Akpanudo,Female,"Akwaibom, Uyo",18 - 24,Sometimes,Food stuff,<4 times,Expensive,Yes,Very important,Yes,10,No,,,,
+Enomfon Akpanudo,Male,South-South,25 - 31,Oftenly,Clothes,5 - 10 times,Affordable,Maybe,Very important,Yes,10,No,,,,
+Fortune ,Female,Akwa Ibom ,18 - 24,Sometimes,Clothes,Not Applicable,Expensive,Maybe,Neutral,Yes,10,No,,,,
+Elian Olere Imasunu ,Female,Edo,25 - 31,Oftenly,"Food stuff, Clothes, Glasses and other fragile goods",Not Applicable,Fair,Yes,Very important,Yes,5,Yes,5,5,4,Yes
+faith,Female,ondo,32 - 38,Sometimes,Clothes,<4 times,Fair,Yes,Very important,Yes,9,No,,,,
+ Chiia,Female,Lagos,25 - 31,Rarely,"Food stuff, Clothes",Not Applicable,Expensive,Yes,Very important,Yes,10,No,,,,
+Patty,Female,Ibadan ,32 - 38,Oftenly,"Food stuff, Clothes",<4 times,Expensive,Maybe,Very important,Yes,9,Yes,2,2,2,Yes
+Ugochi,Female,Lagos,25 - 31,Oftenly,Glasses and other fragile goods,5 - 10 times,Affordable,Yes,Very important,Yes,10,Yes,5,5,5,Yes
+Adaeze,Female,Enugu,32 - 38,Oftenly,Food stuff,<4 times,Expensive,Yes,Somewhat important,Yes,10,Yes,5,5,5,Yes
+funmi,Female,lagos,32 - 38,Oftenly,"Food stuff, Clothes, Glasses and other fragile goods",Not Applicable,Affordable,Yes,Very important,Yes,10,No,,,,
+Chisom,Female,None,25 - 31,Sometimes,Clothes,<4 times,Expensive,Yes,Very important,Yes,8,No,,,,
+Ehimen,Male,North Central - Abuja,25 - 31,Oftenly,Food stuff,<4 times,Affordable,Yes,Very important,Yes,10,Yes,3,3,3,Yes
+Enomfom Akpanudo,Male,Akwa ibom state ,18 - 24,Oftenly,"Clothes, Glasses and other fragile goods",Not Applicable,Affordable,Maybe,Very important,Yes,10,No,,,,
+Nsa Zachary ,Male,Abuja,18 - 24,Oftenly,"Clothes, Snacks ",<4 times,Expensive,No,Very important,Yes,10,No,,,,
+Crystal,Female,Abuja,32 - 38,Oftenly,"Clothes, Glasses and other fragile goods",<4 times,Expensive,Maybe,Very important,Yes,10,Yes,5,5,1,Maybe
+Enomfon Akpanudo,Male,Southern Nigeria,25 - 31,Oftenly,Glasses and other fragile goods,<4 times,Affordable,Maybe,Somewhat important,Yes,10,No,,,,
+Enofmon Akpanudo,Female,Lagos,18 - 24,Oftenly,"Clothes, Glasses and other fragile goods",<4 times,Affordable,Yes,Very important,Yes,10,No,,,,
+Enomfon Apkanudo,Male,Southern part,18 - 24,Oftenly,Clothes,Not Applicable,Expensive,Maybe,Very important,Yes,8,No,,,,
+Enomfon Akpanudo ,Male,Uyo,18 - 24,Oftenly,"Food stuff, Clothes, ",<4 times,Expensive,Yes,Somewhat important,Yes,10,No,,,,
+Naomi,Female,Lagos,25 - 31,Sometimes,Not Applicable,Not Applicable,Fair,Yes,Very important,Yes,6,No,,,,
+Neilly,Male,Akwa ibom,18 - 24,Oftenly,"Food stuff, Clothes",<4 times,Affordable,Yes,Very important,Yes,10,Yes,2,4,3,No
+Enomfon Akpanudo,Female,Akwa Ibom ,18 - 24,Rarely,"Food stuff, ",<4 times,Fair,Yes,Neutral,Yes,10,Yes,3,5,5,No
+Samuel Uche Samuel,Male,Abuja,25 - 31,Oftenly,"Food stuff, Clothes",<4 times,Affordable,Yes,Very important,Yes,10,Yes,2,3,2,No
+Enomfon Akpanudo,Male,Akwa Ibom state ,18 - 24,Oftenly,Food stuff,<4 times,Affordable,Yes,Very important,Yes,6,No,,,,
+Enomfon Akpanudo,Male,Uyo,18 - 24,Oftenly,Not Applicable,<4 times,Affordable,Yes,Very important,Yes,8,No,,,,
+Enomfon Akpanudo,Male,Akwa Ibom,18 - 24,Rarely,Food stuff,Not Applicable,Fair,Maybe,Very important,Yes,10,No,,,,
+Enomfon Akpanudo,Female,Akwa Ibom,18 - 24,Oftenly,Clothes,Not Applicable,Expensive,Yes,Very important,Yes,10,Yes,1,2,4,Maybe
+Enomfon Akpanudo,Male,Akwa Ibom ,18 - 24,Sometimes,Food stuff,<4 times,Fair,Maybe,Very important,Yes,10,Yes,4,4,4,Yes
+Daberechukwu ,Male,Nigeria,18 - 24,Sometimes,"Food stuff, Clothes",<4 times,Fair,Yes,Very important,Yes,8,No,,,,
+K K,Male,The eastern part ,25 - 31,Oftenly,Anything at all I feel like ,Not Applicable,Fair,Yes,Very important,Yes,10,Yes,3,3,3,Yes
+Manya,Female,"Jos,Plateau state",25 - 31,Oftenly,"Clothes, ",Not Applicable,Affordable,Yes,Very important,Yes,10,No,,,,
+Dasegz,Prefer not to say,London,18 - 24,Oftenly,Food stuff,Not Applicable,Affordable,Yes,Very important,Yes,10,Yes,4,4,1,Yes
+Ifeanyi Moses,Male,Lagos,25 - 31,Sometimes,Glasses and other fragile goods,<4 times,Affordable,No,Very important,Maybe,5,No,,,,
+Ugo ,Female,Ebonyi ,18 - 24,Rarely,Not Applicable,Not Applicable,Fair,Maybe,Very important,Yes,10,No,,,,
+Bolu,Male,Kogi,25 - 31,Oftenly,"Clothes, ",Not Applicable,Fair,Yes,Somewhat important,Maybe,8,No,,,,
+Enomfon Akpanudo,Female,Not in Nigeria ,18 - 24,Oftenly,Clothes,,Expensive,Yes,Somewhat important,Yes,10,No,,,,
+Lisa Daniel,Female,Port Harcourt,25 - 31,Sometimes,"Food stuff, Clothes",5 - 10 times,Fair,Yes,Very important,Yes,10,No,,,,
+Francesca,Prefer not to say,Cross River,18 - 24,Rarely,Food stuff,Not Applicable,Expensive,Yes,Very important,Yes,10,No,,,,
+Kay,Prefer not to say,n/a,25 - 31,Sometimes,"Food stuff, Clothes",<4 times,Affordable,No,Somewhat important,Yes,9,No,,,,
+Faith ,Female,Lagos ,18 - 24,Sometimes,"Food stuff, Clothes, Not Applicable",<4 times,Expensive,No,Very important,Yes,10,Yes,4,4,4,No
+Israel ,Male,South West,18 - 24,Rarely,Glasses and other fragile goods,<4 times,Fair,Maybe,Neutral,Yes,7,No,,,,
